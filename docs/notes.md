@@ -2,3 +2,4 @@
 
 Notes and usage details for awesome-openclaw-examples.
 - fix a small wording issue
+- fix a small wording issue
