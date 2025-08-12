@@ -8,3 +8,4 @@ __pycache__/
 coverage/
 .cache/
 .pytest_cache/
+*.tmp
